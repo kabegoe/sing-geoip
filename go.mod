@@ -1,6 +1,6 @@
 module sing-geoip
 
-go 1.18
+go 1.20
 
 require (
 	github.com/google/go-github/v49 v49.0.0
